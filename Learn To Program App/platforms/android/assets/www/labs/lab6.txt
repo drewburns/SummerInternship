@@ -1,0 +1,9 @@
+ 
+Lab 6
+HTML5 for Beginning Beginners
+Andrew Snyder-Spak
+LearnToProgram.TV
+
+For this lab you will be creating a simple website with a table that lists 4 of your friend&#39;s names, ages, and the number of years that you have known each other.  The table you will be creating should have a total of 5 rows and 3 columns.  The top row should contain 3 table headers that label each column.  The columns will be &quot;Friend&#39;s name:&quot;, &quot;Age:&quot;, and &quot;# of years we have known each other:&quot;.  The following 4 rows will be filled in with the corresponding information for 4 of your friends (real or imaginary).  If you have any issues, feel free to go back and rewatch the video lectures.  Your finished lab should look something like the screenshot below:
+
+ 

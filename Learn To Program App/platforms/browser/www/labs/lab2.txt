@@ -1,0 +1,6 @@
+Lab 2
+HTML5 for Beginning Beginners
+Andrew Snyder-Spak
+LearnToProgram.TV
+
+In this second lab, you will once again be creating a website from scratch.  However, this time your website will be a bit more complex.  Take a minute to come up with an idea for a website.  It can be anything from a fan site for your favorite TV show to an informational website about a historical event.  Once you have come up with an idea, you should create a website that includes at least 3 headers using the H1-H6 header tags, and few lines of text under each of these headers.  Also, you should add a few code comments in the HTML code of your website, marking places where you would like to add more content in the future (if this was a real website that you were going to continue building).  Feel free to go back and rewatch the video lecture if you are having some trouble.  Your finished lab should look something like the screenshot below:

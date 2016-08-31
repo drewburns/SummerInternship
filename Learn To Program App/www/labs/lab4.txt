@@ -1,0 +1,9 @@
+ 
+Lab 4
+HTML5 for Beginning Beginners
+Andrew Snyder-Spak
+LearnToProgram.TV
+
+This section was all about lists and links, so for this fourth lab you will be creating a website from scratch that includes several lists and links.  First you should create an ordered list of your top 5 places you would like to visit.  Next you should create an unordered list that contains links to 3 different websites that you like.  You should also add headers above each list to make it very clear what each list is.  When you are finished, be sure to check and make sure that each of your 3 links works properly and brings you to the correct websites when clicked.  If you are having some trouble, feel free to go back and rewatch the video lecture example.  Your finished lab should look something like the screenshot below:
+
+ 

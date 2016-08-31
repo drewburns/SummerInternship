@@ -1,0 +1,11 @@
+ 
+Lab 5
+HTML5 for Beginning Beginners
+Andrew Snyder-Spak
+LearnToProgram.TV
+
+For this lab you will be creating a website with 2 webpages.  The topic for your website will be your favorite type of animal.  The first page should be a homepage with a header that tells what your favorite type of animal is, and then 2 hyperlinks.  One hyperlink should link to an external website about your animal(could be a pet shop website, a wikipedia article, or any other related site).  The other hyperlink should link to the second page of your website which will be a &quot;Photos&quot; page.  This &quot;Photos&quot; page should include a header that says &quot;Photos&quot;, at least 3 different images of your animal, and a hyperlink that leads back to your homepage.  When you are finished, make sure you double check that all of your images are displaying and your hyperlinks are working as intended.  Also, make sure that all of your images include &quot;alt&quot;, &quot;height&quot;, and &quot;width&quot; attributes like we did in the video lecture examples.  Your finished lab should look something like the screenshots below:
+
+ 
+  
+

@@ -1,0 +1,215 @@
+#page-one {
+    height   : 100%;
+    background:#FBF5F5;
+    margin     : 0;
+    padding    : 0;
+}
+#page-one .ui-content, #my-listview {
+    min-height : 100%;
+    height     : 100%;
+    margin     : 0;
+    padding    : 0;
+}
+@media screen and (orientation: portrait) {
+    
+#my-listview .course-item {
+    height : 40%;
+}
+    .header h1 {
+    margin-top:10%;
+    color:white;
+}
+}
+
+@media screen and (orientation: landscape) {
+    
+#my-listview .course-item {
+    height : 55%;
+}
+    .header h1 {
+    margin-top:3%;
+    color:white;
+}
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    #my-listview .course-item {
+        height : 30%;
+    } 
+    .header h1 {
+        margin-top:3%;
+        color:white;
+    }
+
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    #my-listview .course-item {
+        height : 45%;
+    } 
+    .header h1 {
+        margin-top:3%;
+        color:white;
+    }
+    .header {
+    background-color:#F15722;
+    padding: 1%;
+/*        height:18%;*/
+    text-align: center;
+}
+
+      
+}
+
+.header {
+    background-color:#2689B2;
+    padding: 5%;
+    text-align: center;
+}
+
+
+#course-name {
+    font-weight: bold;
+    font-size:1.5em;
+    margin-bottom:-5%;
+}
+
+
+.list-image {
+    width:30%;
+    height:30%;
+    margin-top: 5%;
+    margin-left: 5%;
+    float:left;
+}
+.list-title {
+    display: inline-block;
+    font-size:1.3em;
+    margin-top : -2%;
+        width:64%;
+    text-overflow: ellipsis;
+/*    white-space: pre-wrap;*/
+}
+
+.list-desc {
+    font-size: 0.8em;
+    width:64%;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+.list-content {
+    width:100%;
+/*    background-color:red;*/
+    padding:3%;
+    display:inline-block;
+/*    min-height: 300px;*/
+}
+.divider {
+    font-size:1.3em;
+
+}
+.ui-li-divider {
+    background:#010707;
+}
+#video-content {
+    background-color:white;
+}
+/*
+iframe {
+    width:80%;
+    height:50%;
+    margin-top: 10%;
+    margin-left:10%;
+}
+*/
+
+.video-title {
+    margin-top:5%;
+    font-size:2.3em;
+    text-align: center;
+}
+
+.video-desc {
+    margin-top:2%;
+    font-size:1.3em;
+    padding:2%;
+    text-align: center; 
+}
+
+.lab-desc {
+        margin-top:2%;
+    font-size:1.3em;
+    padding:2%;
+    text-align: left;
+}
+#back-button {
+    text-decoration: none;
+    margin-left:3%;
+    padding:3%;
+    color:#F15722
+    font-size: 1.5em;
+}
+
+.button {
+    background-color: #F15722;
+}
+
+#about-button {
+    text-decoration: none;
+    color:white;
+ position:absolute;
+    font-size:1.2em;
+  top:0;
+    margin-right:1%;
+    margin-top:5%;
+  right:0;
+}
+
+#course-brand {
+    display: block;
+     margin: 0 auto;
+    padding-bottom:100px;
+}
+
+#course-graphic {
+    display: block;
+    margin: 0 auto;
+    width:75%;
+    height:300px;
+}
+
+#about-content {
+    background-color: white;
+}
+
+.lab-image {
+    width:70%;
+        display: block;
+    margin: 0 auto;
+    padding-bottom:100px;
+}
+#playVideo {
+    font-size: 3em;
+}
+
+/* L2P Colors 
+#2689B2
+#818E97
+#FFFEF9
+*/
+
+/* Punk Colors
+
+#010707
+#FBF5F5
+#F15722
+
+*/

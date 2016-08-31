@@ -1,0 +1,264 @@
+{
+  "title": "HTML5 for Beginning Beginners",
+  "author": "Andrew Snyder-Spak",
+  "description": "Start here-- Even if you've never written a line of code before!",
+  "graphic": "https://d6xfpzo6h49n1.cloudfront.net/A_UQrTSH9XUxEl8Hov_B7mEn56Y=/fit-in/705x0/https://www.filepicker.io/api/file/Y81jOPnSiuY2qA8ZHmWB",
+    "chapters" : [
+        {
+               "name" : "Basic Terms and Tools",
+                "subchapters" : [
+                   {
+                     "name" : "Course Introduction",
+                     "description" : "This video covers terms to know and the tools you will need to get started using HTML5. Andrew introduces the course and talks about what's in store for episode 1.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E01.01+Final-1.mp4",
+                    "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                   },
+                    {
+                     "name" : "Terms, Tools, and Setting up Brackets",
+                     "description" : "This video covers the terms to know and the tools you will need to get started using HTML5",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E01.02+Final-2.mp4",
+                    "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                   },
+                    {
+                     "name" : "Lab Instructions",
+                     "description" : "Create a simple website -- white page with a few lines of text.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E01.03+Final-3.mp4",
+                    "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg",
+                    "labTXTS" : [
+                        { "file" : "lab1.txt"}
+                    ],
+                    "labPics" : [
+                        {"file" : "Pic1.1.JPG"}
+                    ]
+                    
+                   },
+                    {
+                     "name" : "Lab Solution",
+                     "description" : "Andrew reviews his lab solution",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E01.04+Final-4.mp4",
+                    "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                   }
+                ]
+
+        },
+        
+        {
+                "name" : "Basic HTML Tags" ,
+                "subchapters" : [       
+                {
+                     "name" : "Introduction to Tags" ,
+                     "description" : "Andrew introduces this section about HTML tags",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E02.01+Final-5.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "All about Tags in HTML" ,
+                     "description" : "This video goes over basic HTML tags, website structure, proper tag nesting, and writing code comments.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E02.02+Final-6.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Lab Instructions" ,
+                     "description" : "Create a simple website with 3 headers using the H1-H6 tags, small paragraphs of text under each of those headers, and then a few code comments within the HTML code",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E02.03+Final-7.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg",
+                    "labTXTS" : [
+                        { "file" : "lab2.txt"}
+                    ],
+                    "labPics" : [
+                        {"file" : "Pic2.1.JPG"}
+                    ]
+                    
+                },
+                {
+                     "name" : "Lab Solution" ,
+                     "description" : "Andrew reviews his lab solution",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E02.04+Final-8.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                }
+                    
+                ]
+            },
+        {
+                "name" : "CSS for HTML5" ,
+                "subchapters" : [       
+                {
+                     "name" : "Introduction to CSS" ,
+                     "description" : "Andrew introduces how to use CSS linking to create ascetically pleasing webpages.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E03.01+Final-9.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Styling with CSS" ,
+                     "description" : "Learn when, where, and how to use CSS to add style to your webpages.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E03.02+Final-10.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Lab Instructions" ,
+                     "description" : "This lab has you take a simple website and adding at least 3 CSS properties to give it some style/color. You can use any of the 3 methods of CSS linking that we went over",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E03.03+Final-11.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg",
+                    "labTXTS" : [
+                        { "file" : "lab3.txt"}
+                    ],
+                    "labPics" : [
+                        {"file" : "Pic3.1.JPG"}
+                    ]
+                },
+                {
+                     "name" : "Lab Solution" ,
+                     "description" : "Andrew reviews his lab solution",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E03.04+Final-12.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                }
+                    
+                ]
+            },
+{
+                "name" : "List and Links" ,
+                "subchapters" : [       
+                {
+                     "name" : "Introduction to Lists and Links" ,
+                     "description" : "Andrew introduces working with Ordered and Unordered lists and also the anchor tag",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E04.01+Final-13.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Lists and Links" ,
+                     "description" : "This lesson goes over how to construct ordered and unordered lists and how to create hyperlinks",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E04.02+Final-14.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Lab Instructions" ,
+                     "description" : "Create a simple website that includes 2 lists, each with a header above them. ",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E04.03+Final-15.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg",
+                    "labTXTS" : [
+                        { "file" : "lab4.txt"}
+                    ],
+                    "labPics" : [
+                        {"file" : "Pic4.1.JPG"}
+                    ]
+                },
+                {
+                     "name" : "Lab Solution" ,
+                     "description" : "Andrew reviews his lab solution",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E04.04+Final-16.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                }
+                    
+                ]
+            },
+{
+                "name" : "Images" ,
+                "subchapters" : [       
+                {
+                     "name" : "Introduction to Images" ,
+                     "description" : "Andrew introduces images into the equation",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E05.01+Final-17.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Images in HTML" ,
+                     "description" : "This video covers how to properly create an image in HTML, height and width attributes, and the importance of alternate text for images",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E05.02+Final-18.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Lab Instructions" ,
+                     "description" : "Create a simple website with 2 web pages. Each page should have a hyperlink that leads to the other page. The topic is “your favorite type of animal”. ",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E05.03+Final-19.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg",
+                    "labTXTS" : [
+                        { "file" : "lab5.txt"}
+                    ],
+                    "labPics" : [
+                        {"file" : "Pic5.1.JPG"}
+                    ]
+                },
+                {
+                     "name" : "Lab Solution" ,
+                     "description" : "Andrew reviews his lab solution",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E05.04+Final-20.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                }
+                    
+                ]
+            },
+{
+                "name" : "Tables" ,
+                "subchapters" : [       
+                {
+                     "name" : "Tables Introduction" ,
+                     "description" : "Andrew introduces tables.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E06.01+Final-21.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Tables in HTML" ,
+                     "description" : "This video addresses when and why HTML tables are useful, how to properly create them, and how to add a simple header to your tables.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E06.02+Final-22.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Lab Instructions" ,
+                     "description" : "Create a simple website with an HTML table that has 5 rows and 3 columns.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E06.03+Final-23.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg",
+                    "labTXTS" : [
+                        { "file" : "lab6.txt"}
+                    ],
+                    "labPics" : [
+                        {"file" : "Pic6.1.JPG"}
+                    ]
+                },
+                {
+                     "name" : "Lab Solution" ,
+                     "description" : "Andrew reviews his lab solution",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E06.04+Final-24.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                }
+                    
+                ]
+            },
+{
+                "name" : "Web Forms" ,
+                "subchapters" : [       
+                {
+                     "name" : "Web Forms Introduction" ,
+                     "description" : "Andrew introduces web forms and their functions.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E07.01+Final-25.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Basics of Creating a Web Form" ,
+                     "description" : "This lessons is all about web forms and how to create the pieces that make them up. Andrew discusses text input boxes, radio buttons, checkboxes, and more.",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E07.02+Final-26.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                },
+                {
+                     "name" : "Lab Instructions" ,
+                     "description" : "Create a simple website that has 2 webpages",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E07.03+Final-27.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg",
+                    "labTXTS" : [
+                        { "file" : "lab7.txt"}
+                    ],
+                    "labPics" : [
+                        {"file" : "Pic7.1.JPG"}
+                    ]
+                },
+                {
+                     "name" : "Lab Solution" ,
+                     "description" : "Andrew reviews his lab solution",
+                     "video_url": "https://s3-us-west-2.amazonaws.com/mobileapps2016/HTML5BeginningBeginner/Html5+Bb+E07.04+Final-28.mp4",
+                     "thumbnail_url" : "http://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg"
+                }
+                    
+                ]
+            }
+
+    ]
+}

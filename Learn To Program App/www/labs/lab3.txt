@@ -1,0 +1,6 @@
+Lab 3
+HTML5 for Beginning Beginners
+Andrew Snyder-Spak
+LearnToProgram.TV
+
+In this third lab you can either create another simple website from scratch, or reuse your site from Lab 2.  Once you have a simple website with a few different tags and some text, you must add at least 3 CSS properties to some of the tags on your site.  You can use whatever method of CSS linking you prefer (External, Internal, Inline).  If you are having some issues feel free to go and rewatch the video lecture examples.  Your finished lab should look something like the screenshot below:

@@ -1,0 +1,9 @@
+ 
+Lab 7
+HTML5 for Beginning Beginners
+Andrew Snyder-Spak
+LearnToProgram.TV
+
+For this final lab, you will be creating a website with 2 pages.  Each page should include a hyperlink the other page.  The first page should be a homepage that includes a header, a paragraph of text that welcomes the users to your website, and an image or two of whatever you would like.  The second page will be a simulated &quot;sign up&quot; page that should include a form with 4 textboxes for the user to enter their first name, last name, phone number, and email address.  At the bottom of the form there should be a submit button as well.  Making this &quot;sign up&quot; page functional is beyond the scope of this course, so you don&#39;t need to worry about making your submit button actually do anything.  Just focus on making it look like it should.  If you are having any issues feel free to go back and rewatch the video lectures.  Your finished website should look something like the screenshots below:
+
+ 
